@@ -1,0 +1,13 @@
+{
+  "id": "4f57ec40-0d35-4b59-bea0-9d040f0d2292",
+  "name": "Valkyries",
+  "market": "Golden State",
+  "sr_id": "sr:team:1200059",
+  "reference": "1611661331",
+  "season": {
+    "id": "055be57a-883d-4aad-9797-1c96c4c879bd",
+    "year": 2021,
+    "type": "REG"
+  },
+  "players": []
+}

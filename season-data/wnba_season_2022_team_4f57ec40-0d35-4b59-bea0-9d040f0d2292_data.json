@@ -1,0 +1,13 @@
+{
+  "id": "4f57ec40-0d35-4b59-bea0-9d040f0d2292",
+  "name": "Valkyries",
+  "market": "Golden State",
+  "sr_id": "sr:team:1200059",
+  "reference": "1611661331",
+  "season": {
+    "id": "73f9bbde-1a9a-4ae3-95d7-125df431bdda",
+    "year": 2022,
+    "type": "REG"
+  },
+  "players": []
+}
