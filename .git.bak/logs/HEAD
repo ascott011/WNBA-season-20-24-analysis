@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 a304887927708a8e66a4d6c01229af131fa84764 Alex Scott <ascott011uk@gmail.com> 1733866207 -0500	commit (initial): Initial commit
+a304887927708a8e66a4d6c01229af131fa84764 a304887927708a8e66a4d6c01229af131fa84764 Alex Scott <ascott011uk@gmail.com> 1733866470 -0500	checkout: moving from main to initial-test
+a304887927708a8e66a4d6c01229af131fa84764 5379a5e39272ab6d45c69ac36de944fc514a52fd Alex Scott <ascott011uk@gmail.com> 1733867075 -0500	commit: Team ID fetch
+5379a5e39272ab6d45c69ac36de944fc514a52fd 32057564d988ee1cb38ebbfeb3296352aab7174a Alex Scott <ascott011uk@gmail.com> 1733867133 -0500	checkout: moving from initial-test to main
+32057564d988ee1cb38ebbfeb3296352aab7174a 5379a5e39272ab6d45c69ac36de944fc514a52fd Alex Scott <ascott011uk@gmail.com> 1733867147 -0500	checkout: moving from main to initial-test
+5379a5e39272ab6d45c69ac36de944fc514a52fd 32057564d988ee1cb38ebbfeb3296352aab7174a Alex Scott <ascott011uk@gmail.com> 1733867172 -0500	checkout: moving from initial-test to Season-Data-Scrape
+32057564d988ee1cb38ebbfeb3296352aab7174a 9784ec9557ef91eebe72416d51501abccae8f66b Alex Scott <ascott011uk@gmail.com> 1733867713 -0500	commit: 2000-2024-Data-Fetched
+9784ec9557ef91eebe72416d51501abccae8f66b 32057564d988ee1cb38ebbfeb3296352aab7174a Alex Scott <ascott011uk@gmail.com> 1733868483 -0500	checkout: moving from Season-Data-Scrape to main
